@@ -10,6 +10,7 @@ Repositorio de apuntes, ejemplos y ejercicios basados en el curso de CSS de free
 - [CSS Básico](./css-basico/)
   - [¿Qué es CSS?](./css-basico/que-es-css.md)
   - [Diseño: Menú de cafetería](./css-basico/menu-cafeteria)
+  - [Diseño: Tarjeta de presentación](./css-basico/tarjeta-presentacion)
 - [Colores](./colores/)
 - [Unidades Absolutas y Relativas](./unidades-absolutas-realtivas/)
 - [Selectores de Atributos](./selectores-atributos/)
