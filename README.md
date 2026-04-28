@@ -11,7 +11,7 @@ Repositorio de apuntes, ejemplos y ejercicios basados en el curso de CSS de free
   - [¿Qué es CSS?](./css-basico/que-es-css.md)
   - [Diseño: Menú de cafetería](./css-basico/menu-cafeteria)
   - [Diseño: Tarjeta de presentación](./css-basico/tarjeta-presentacion)
-  - [Especificidad CSS, el Algoritmo en Cascada y Herencia](./css-basico/especifidad-algoritmo-cascada-herencia)
+  - [Especificidad CSS, el Algoritmo en Cascada y Herencia](./css-basico/especifidad-algoritmo-cascada-herencia.md)
 - [Colores](./colores/)
 - [Unidades Absolutas y Relativas](./unidades-absolutas-realtivas/)
 - [Selectores de Atributos](./selectores-atributos/)
