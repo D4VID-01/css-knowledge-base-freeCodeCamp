@@ -1,0 +1,77 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(217, 227, 224);
+}
+
+section {
+  background-color: white;
+  border-radius: 10px;
+  width: 400px;
+  min-height: auto;
+  max-height: 95vh;
+  padding:20px;
+  margin: 20px auto;
+  overflow: hidden; /* Cambia scroll por hidden para que el contenedor sea rígido */
+  display: flex;    /* Usamos flex para que el contenido se alinee verticalmente */
+  flex-direction: column; 
+}
+
+h1 {
+  margin: 0.67em 0;
+  text-align: center;
+}
+
+.todo-list {
+  list-style-type: none; /* <===== PARTE DE LA LECCIÓN*/
+  overflow-y: auto;  /* Activa el scroll solo aquí */
+  /* max-height: 100%; */  /* Usa el espacio sobrante del section */
+}
+
+.todo-list li {
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #e5f1e5;
+  border-radius: 10px;
+}
+
+/* PARTE DE LA LECCIÓN ================ */
+.sub-item {
+  list-style-type: square;
+  list-style-position: inside;
+}
+
+a {
+  text-decoration:none;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: red;
+}
+
+a:focus {
+  border: 2px solid rgb(64, 110, 216);
+}       
+
+a:active{
+  color: green;
+}
+
+/* =================================== */
+
+.todo-list::-webkit-scrollbar {
+  display: none;
+}
