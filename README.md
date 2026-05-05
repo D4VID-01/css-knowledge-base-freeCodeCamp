@@ -9,9 +9,10 @@ Repositorio de apuntes, ejemplos y ejercicios basados en el curso de CSS de free
 ### 🟢 Fundamentos
 - [CSS Básico](./css-basico/)
   - [¿Qué es CSS?](./css-basico/que-es-css.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-  - [Diseño: Menú de cafetería](./css-basico/menu-cafeteria)
-  - [Diseño: Tarjeta de presentación](./css-basico/tarjeta-presentacion)
-  - [Especificidad CSS, el Algoritmo en Cascada y Herencia](./css-basico/especifidad-algoritmo-cascada-herencia.md)
+  - [Diseño: Menú de cafetería](./css-basico/menu-cafeteria) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+  - [Diseño: Tarjeta de presentación](./css-basico/tarjeta-presentacion) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+  - [Especificidad CSS, el Algoritmo en Cascada y Herencia](./css-basico/especifidad-algoritmo-cascada-herencia.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+  - [Revisión de fundamentos CSS](./css-basico/revision-fundamentos-css.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
 - [Colores](./colores/)
 - [Unidades Absolutas y Relativas](./unidades-absolutas-realtivas/)
 - [Selectores de Atributos](./selectores-atributos/)
