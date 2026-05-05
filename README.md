@@ -8,7 +8,7 @@ Repositorio de apuntes, ejemplos y ejercicios basados en el curso de CSS de free
 
 ### 🟢 Fundamentos
 - [CSS Básico](./css-basico/)
-  - [¿Qué es CSS?](./css-basico/que-es-css.md)
+  - [¿Qué es CSS?](./css-basico/que-es-css.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
   - [Diseño: Menú de cafetería](./css-basico/menu-cafeteria)
   - [Diseño: Tarjeta de presentación](./css-basico/tarjeta-presentacion)
   - [Especificidad CSS, el Algoritmo en Cascada y Herencia](./css-basico/especifidad-algoritmo-cascada-herencia.md)
