@@ -13,6 +13,7 @@ Repositorio de apuntes, ejemplos y ejercicios basados en el curso de CSS de free
   - [Diseño: Tarjeta de presentación](./css-basico/tarjeta-presentacion) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
   - [Especificidad CSS, el Algoritmo en Cascada y Herencia](./css-basico/especifidad-algoritmo-cascada-herencia.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
   - [Revisión de fundamentos CSS](./css-basico/revision-fundamentos-css.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
+  - [Estilizando listas y enlaces](./css-basico/estilizando-listas-enlaces.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
 - [Colores](./colores/)
 - [Unidades Absolutas y Relativas](./unidades-absolutas-realtivas/)
 - [Selectores de Atributos](./selectores-atributos/)
