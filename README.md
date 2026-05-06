@@ -15,7 +15,7 @@ Repositorio de apuntes, ejemplos y ejercicios basados en el curso de CSS de free
   - [Revisión de fundamentos CSS](./css-basico/revision-fundamentos-css.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
   - [Estilizando Listas y Enlaces](./css-basico/estilizando-listas-enlaces.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
   - [Diseño: Lista de tareas](./css-basico/lista-tareas) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-  - [Trabajando con Fondos y Bordes](./css-basico/que-es-css.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+  - [Trabajando con Fondos y Bordes](./css-basico/fondos-y-bordes.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
 - [Colores](./colores/)
 - [Unidades Absolutas y Relativas](./unidades-absolutas-realtivas/)
 - [Selectores de Atributos](./selectores-atributos/)
